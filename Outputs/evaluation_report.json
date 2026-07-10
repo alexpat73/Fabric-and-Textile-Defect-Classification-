@@ -1,0 +1,29 @@
+{
+  "custom_cnn": {
+    "accuracy": 0.6628,
+    "balanced_accuracy": 0.5012,
+    "macro_f1": 0.4196,
+    "weighted_f1": 0.5707,
+    "inference_ms": 1.73,
+    "parameters": 2491828,
+    "size_mb": 9.98
+  },
+  "efficientnet_v2_s": {
+    "accuracy": 0.9209,
+    "balanced_accuracy": 0.8598,
+    "macro_f1": 0.8663,
+    "weighted_f1": 0.9201,
+    "inference_ms": 16.59,
+    "parameters": 20203108,
+    "size_mb": 81.43
+  },
+  "convnext_tiny": {
+    "accuracy": 0.9163,
+    "balanced_accuracy": 0.8629,
+    "macro_f1": 0.8581,
+    "weighted_f1": 0.9122,
+    "inference_ms": 6.18,
+    "parameters": 27835508,
+    "size_mb": 111.34
+  }
+}
